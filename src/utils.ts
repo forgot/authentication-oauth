@@ -1,5 +1,5 @@
 import { RequestHandler } from 'express';
-import { Application } from '@feathersjs/feathers';
+import { Application } from '@feathersjs/feathers'; 
 
 export interface OauthSetupSettings {
   authService?: string;
